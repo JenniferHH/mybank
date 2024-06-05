@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bankappdesign/static/css/main.13c0fbc8.css",
+    "main.js": "/bankappdesign/static/js/main.3d02ba8f.js",
+    "static/media/Banner.PNG": "/bankappdesign/static/media/Banner.1d380589ba95d0def0ba.PNG",
+    "static/media/skyline.jpg": "/bankappdesign/static/media/skyline.3e71182c9bb49e9eb944.jpg",
+    "static/media/instagram.png": "/bankappdesign/static/media/instagram.6343ad66e8b8a5018d48.png",
+    "static/media/linkedin.png": "/bankappdesign/static/media/linkedin.0b3d8a7c6094cda05982.png",
+    "static/media/facebook.png": "/bankappdesign/static/media/facebook.d37b9d5c28bb33630223.png",
+    "index.html": "/bankappdesign/index.html",
+    "main.13c0fbc8.css.map": "/bankappdesign/static/css/main.13c0fbc8.css.map",
+    "main.3d02ba8f.js.map": "/bankappdesign/static/js/main.3d02ba8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13c0fbc8.css",
+    "static/js/main.3d02ba8f.js"
+  ]
+}
